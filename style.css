@@ -2,12 +2,15 @@ header{
    background-color: rgb(1, 1, 3);
    color: rgb(41, 196, 196);
 display: flex;
-
 justify-content: space-around;
 align-items: center;
 }
 
 .imagem-cabecalho{
 width: 20%;
+}
+
+.cabecalho-item{
+display: inline-block;
 
 }
