@@ -12,6 +12,11 @@ padding: 24px 0;
    padding: 0;
 }
 
+body{
+   font-family: "Roboto Condensed", sans-serif;
+
+}
+
 .cabecalho {
    background-color: #424E61;
    color: white;
